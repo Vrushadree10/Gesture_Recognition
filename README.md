@@ -1,2 +1,13 @@
-# Gesture_Recognition
-The Hand Gesture Recognition project leverages OpenCV and MediaPipe to detect and recognize various hand gestures in real-time. This project is ideal for applications in human-computer interaction, gaming, sign language interpretation, and other areas where touchless control is beneficial.
+# Hand Gesture Recognition
+
+This project uses OpenCV and MediaPipe to recognize hand gestures in real-time.
+
+## Requirements
+
+- Python 3.x
+- OpenCV
+- MediaPipe
+
+## Installation
+
+pip install opencv-python mediapipe
